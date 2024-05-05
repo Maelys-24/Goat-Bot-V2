@@ -1,20 +1,7 @@
 [
     {
         "domain": ".facebook.com",
-        "expirationDate": 1749501019.503412,
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "ps_l",
-        "path": "/",
-        "sameSite": "lax",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "1"
-    },
-    {
-        "domain": ".facebook.com",
-        "expirationDate": 1749500991.249496,
+        "expirationDate": 1749504235.475993,
         "hostOnly": false,
         "httpOnly": true,
         "name": "datr",
@@ -27,7 +14,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1722717861.44776,
+        "expirationDate": 1722718611.647426,
         "hostOnly": false,
         "httpOnly": true,
         "name": "fr",
@@ -36,11 +23,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "0mQFnIsEjFB0hS6f7.AWVWWtKVCtil0Sj2KBWnnxT6_Og.BmN-xA..AAA.0.0.BmN--k.AWXdyo2ScFg"
+        "value": "0mQFnIsEjFB0hS6f7.AWV0r64cdDm4HzcC774vCc2rFqk.BmN-xA..AAA.0.0.BmN_KS.AWWQGXUeW_c"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1720125870,
+        "expirationDate": 1720126631,
         "hostOnly": false,
         "httpOnly": false,
         "name": "vpd",
@@ -53,7 +40,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1746477861.448413,
+        "expirationDate": 1746478611.648338,
         "hostOnly": false,
         "httpOnly": true,
         "name": "xs",
@@ -62,11 +49,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "29%3AJXwvcLiztzNNFg%3A2%3A1714941861%3A-1%3A7715"
+        "value": "20%3A2qr0QeM1JJxxBQ%3A2%3A1714942611%3A-1%3A7715"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1746477870,
+        "expirationDate": 1746478631,
         "hostOnly": false,
         "httpOnly": false,
         "name": "fbl_st",
@@ -75,7 +62,7 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "101034593%3BT%3A28582364"
+        "value": "100729144%3BT%3A28582377"
     },
     {
         "domain": ".facebook.com",
@@ -104,7 +91,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1746477861.448271,
+        "expirationDate": 1746478611.647942,
         "hostOnly": false,
         "httpOnly": false,
         "name": "c_user",
@@ -117,7 +104,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1722717861.936133,
+        "expirationDate": 1722718612.164752,
         "hostOnly": false,
         "httpOnly": true,
         "name": "m_page_voice",
@@ -130,33 +117,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1749501019.503196,
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "ps_n",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "1"
-    },
-    {
-        "domain": ".facebook.com",
-        "expirationDate": 1749501861.448085,
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "sb",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "QOw3Zm8jTZE3TzdDRCJiEKZ7"
-    },
-    {
-        "domain": ".facebook.com",
-        "expirationDate": 1715546663,
+        "expirationDate": 1715547413,
         "hostOnly": false,
         "httpOnly": false,
         "name": "wd",
@@ -169,7 +130,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1722717870,
+        "expirationDate": 1722718631,
         "hostOnly": false,
         "httpOnly": false,
         "name": "wl_cbv",
@@ -178,6 +139,6 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "v2%3Bclient_version%3A2492%3Btimestamp%3A1714941870"
+        "value": "v2%3Bclient_version%3A2492%3Btimestamp%3A1714942631"
     }
 ]
