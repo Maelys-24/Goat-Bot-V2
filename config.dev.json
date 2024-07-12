@@ -12,7 +12,7 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "⚘ 𝙼𝚊𝚎𝚕𝚢𝚜⊰♔⊱⊹ ",
+	"nickNameBot": "⚘ 𝙼𝚊𝚎𝚕𝚢𝚜⊰♔⊱⊹",
 	"prefix": "#",
 	"adminOnly": {
 		"enable": false,
@@ -66,7 +66,7 @@
 		}
 	},
 	"autoRestart": {
-		"time": 12000000,
+		"time": false,
 		"notes": "you can set time is interval with milisecond or cron time, example: 1000, 10000, 60000, 3600000, 86400000, 0 0 * * *,... docs: https://www.npmjs.com/package/node-cron. If you set time is 0 or false or null, the bot will not auto restart"
 	},
 	"autoUptime": {
